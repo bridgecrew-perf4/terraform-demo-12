@@ -1,12 +1,10 @@
 # Terraform Demo
 
 ## About The Project
-----
 This repo contains the source code that I used to learn Terraform. It applies some Terraform best practice to provide the quick learning and understanding about Terraform. The reference for this repo is from the [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) series.
 
 
 ## Getting Started
-----
 ### Structure
 ```
 terraform-demo
@@ -32,10 +30,8 @@ terraform-demo
 
 
 ## License
----
 Distributed under the MIT License. See [LICENSE](./LICENSE.txt) for more information.
 
 ## Contact
----
 Bang Le - lecongbang314@gmail.com
 
